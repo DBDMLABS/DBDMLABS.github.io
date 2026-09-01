@@ -1,4 +1,4 @@
-# Muhammad Shehzad — Professional CV Website
+# Muhammad Shehzad — Resume Website
 
 A responsive multi-page static CV website for GitHub Pages.
 
@@ -21,7 +21,3 @@ A responsive multi-page static CV website for GitHub Pages.
 5. Select the `main` branch and `/ (root)`, then Save.
 6. GitHub will provide the public Pages URL.
 
-## Important source-data note
-The uploaded CV contains repeated pages and several conflicting versions of some details (notably email addresses and some experience durations). The website uses the most detailed/latest version where appropriate and preserves additional unique information from the other pages. Obvious spelling/grammar issues were cleaned for professional presentation without changing stated facts.
-
-For a public CV, consider removing the passport placeholder and date-of-birth placeholder before publishing.
