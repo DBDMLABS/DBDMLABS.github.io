@@ -1,5 +1,5 @@
 # Muhammad Shehzad — Resume Website
-[**Click Here to View Resume_MUHAMMAD_SHEHZAD**](https://dbdmlabs.github.io/Resume_MR.Shehzad.github.io/)
+[**Click Here to View Resume_Muhammad_Shehzad**](https://dbdmlabs.github.io/Resume_MR.Shehzad.github.io/)
 ## Pages
 - Home
 - Education
