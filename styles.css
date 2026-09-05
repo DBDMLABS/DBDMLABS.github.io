@@ -57,16 +57,3 @@ h1 span{color:var(--accent)}
 .contact-row:last-child{border-bottom:0}
 .contact-icon{width:32px;color:var(--accent);font-weight:800}
 @media(max-width:820px){.hero-grid,.grid-2,.grid-3{grid-template-columns:1fr}.nav-inner{align-items:flex-start;padding:12px 0}.nav-links{max-height:115px;overflow:auto}.hero{padding-top:45px}h1{font-size:3.1rem}}
-
-.btn.primary {
-  animation: blinkButton 1.2s ease-in-out infinite;
-}
-
-@keyframes blinkButton {
-  0%, 100% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.45;
-  }
-}
